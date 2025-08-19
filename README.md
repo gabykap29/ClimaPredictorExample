@@ -90,6 +90,3 @@ Para adaptar el modelo a tus propios datos o necesidades:
 - La precisión depende de la calidad y cantidad de los datos históricos disponibles.
 - Se recomienda reentrenar el modelo periódicamente con datos actualizados.
 
-## Licencia
-
-Este proyecto está disponible como código abierto bajo la licencia MIT.
